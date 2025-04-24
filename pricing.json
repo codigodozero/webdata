@@ -116,8 +116,8 @@
         {
           "title": "Apps Mobile com Flutter e React Native",
           "badge": "mobile dev",
-          "status": "Disponível",
-          "vagas": "5",
+          "status": "Indisponível",
+          "vagas": "0",
           "thumbnail": "http://codigodozero.com/webdata/imageteste.png",
           "description": "Aprenda a criar apps nativos e híbridos com Flutter e React Native, com foco em performance e design moderno.",
           "benefits": [
