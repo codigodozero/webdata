@@ -1,0 +1,84 @@
+{
+  "sections": [
+    {
+      "title": "Mentoria em C# Completo",
+      "cards": [
+        {
+          "title": "C# Completo",
+          "badge": "mentoria privada",
+          "status": "Disponível",
+          "description": "Mentoria completa para dominar C# do zero ao avançado, incluindo .NET.",
+          "benefits": [
+            "Aulas ao vivo e gravadas com foco em C# moderno",
+            "Projetos reais com orientação individual",
+            "Feedback direto do mentor via Discord",
+            "Correção de código em tempo real",
+            "Suporte exclusivo para dúvidas técnicas"
+          ],
+          "action_button": "Fazer aula grátis",
+          "highlight": true
+        }
+      ]
+    },
+    {
+      "title": "Mentoria Web Fullstack",
+      "cards": [
+        {
+          "title": "Web Fullstack",
+          "badge": "full acesso",
+          "status": "Disponível",
+          "description": "Mentoria completa para se tornar um desenvolvedor web fullstack com práticas modernas de frontend e backend.",
+          "benefits": [
+            "Frontend com React, Tailwind e SPA",
+            "Backend com Node.js, Express e MongoDB",
+            "Integração total entre frontend e backend",
+            "Hospedagem e deploy com Vercel e Railway",
+            "Acompanhamento de projetos em tempo real"
+          ],
+          "action_button": "Fazer aula grátis",
+          "highlight": true
+        }
+      ]
+    },
+    {
+      "title": "Mentoria em Backend Completo",
+      "cards": [
+        {
+          "title": "Backend Completo",
+          "badge": "nível avançado",
+          "status": "Disponível",
+          "description": "Mentoria focada em backend profissional com práticas modernas, segurança e escalabilidade.",
+          "benefits": [
+            "APIs RESTful e GraphQL na prática",
+            "Banco de dados relacionais e NoSQL",
+            "JWT, OAuth2 e autenticação avançada",
+            "Testes automatizados e integração contínua",
+            "Acompanhamento técnico com feedbacks"
+          ],
+          "action_button": "Fazer aula grátis",
+          "highlight": true
+        }
+      ]
+    },
+    {
+      "title": "Mentoria em Frontend com React",
+      "cards": [
+        {
+          "title": "Frontend com React",
+          "badge": "popular",
+          "status": "Indisponível",
+          "description": "Mentoria para dominar React, hooks, roteamento, context API e otimizações.",
+          "benefits": [
+            "Componentização e arquitetura moderna",
+            "Styled-components, Tailwind e design system",
+            "Conceitos avançados de estado e performance",
+            "Integração com APIs e autenticação segura",
+            "Simulados e desafios com correção detalhada"
+          ],
+          "action_button": "Fazer aula grátis",
+          "highlight": false
+        }
+      ]
+    }
+  ]
+}
