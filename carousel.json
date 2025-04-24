@@ -14,16 +14,6 @@
       "title": "Chatbot Inteligente",
       "image_url": "https://codigodozero.com/webdata/projetos/chatbot.png",
       "description": "Assistente virtual capaz de interagir com usuários, responder perguntas e executar comandos simples."
-    },
-    {
-      "title": "Conversor de Moedas",
-      "image_url": "https://codigodozero.com/webdata/imageteste.png",
-      "description": "Aplicativo que permite converter entre diversas moedas com taxas de câmbio atualizadas em tempo real."
-    },
-    {
-      "title": "Jogo da Memória",
-      "image_url": "https://codigodozero.com/webdata/imageteste.png",
-      "description": "Jogo interativo que desafia sua memória, onde você deve encontrar pares de cartas iguais em um tempo limitado."
     }
   ]
 }
