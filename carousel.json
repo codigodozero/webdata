@@ -2,28 +2,28 @@
   "carousel": [
     {
       "title": "To-do List App",
-      "image_url": "https://example.com/images/todo.jpg",
-      "description": "Um aplicativo simples para organizar tarefas diárias com funcionalidades de adicionar, editar e marcar como concluído."
+      "image_url": "https://codigodozero.com/webdata/imageteste.png",
+      "description": "Aplicativo de lista de tarefas que permite organizar e priorizar suas atividades diárias de forma eficiente."
     },
     {
       "title": "API de Clima",
-      "image_url": "https://example.com/images/weather-api.jpg",
-      "description": "Projeto backend que consome dados de uma API pública de clima e retorna previsões de forma personalizada."
+      "image_url": "https://codigodozero.com/webdata/imageteste.png",
+      "description": "API que fornece dados meteorológicos atualizados, incluindo previsão do tempo e condições climáticas atuais."
     },
     {
       "title": "Portfólio Pessoal",
-      "image_url": "https://example.com/images/portfolio.jpg",
-      "description": "Um site responsivo que apresenta habilidades, experiências e projetos desenvolvidos por um programador iniciante."
+      "image_url": "https://codigodozero.com/webdata/imageteste.png",
+      "description": "Site pessoal que exibe projetos, habilidades e experiências profissionais de forma visualmente atraente."
     },
     {
       "title": "Conversor de Moedas",
-      "image_url": "https://example.com/images/currency.jpg",
-      "description": "Aplicativo que converte valores entre diferentes moedas em tempo real utilizando uma API financeira."
+      "image_url": "https://codigodozero.com/webdata/imageteste.png",
+      "description": "Aplicativo que permite converter entre diversas moedas com taxas de câmbio atualizadas em tempo real."
     },
     {
       "title": "Jogo da Memória",
-      "image_url": "https://example.com/images/memory-game.jpg",
-      "description": "Joguinho interativo onde o usuário precisa encontrar pares de cartas iguais. Desenvolvido com HTML, CSS e JavaScript."
+      "image_url": "https://codigodozero.com/webdata/imageteste.png",
+      "description": "Jogo interativo que desafia sua memória, onde você deve encontrar pares de cartas iguais em um tempo limitado."
     }
   ]
 }
