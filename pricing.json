@@ -8,6 +8,7 @@
           "badge": "mentoria privada",
           "status": "Disponível",
           "vagas": "8",
+          "thumbnail": "http://codigodozero.com/webdata/imageteste.png",
           "description": "Mentoria completa para dominar C# do zero ao avançado, incluindo .NET.",
           "benefits": [
             "Aulas ao vivo e gravadas com foco em C# moderno",
@@ -29,6 +30,7 @@
           "badge": "full acesso",
           "status": "Disponível",
           "vagas": "4",
+          "thumbnail": "http://codigodozero.com/webdata/imageteste.png",
           "description": "Mentoria completa para se tornar um desenvolvedor web fullstack com práticas modernas de frontend e backend.",
           "benefits": [
             "Frontend com React, Tailwind e SPA",
@@ -50,6 +52,7 @@
           "badge": "nível avançado",
           "status": "Disponível",
           "vagas": "2",
+          "thumbnail": "http://codigodozero.com/webdata/imageteste.png",
           "description": "Mentoria focada em backend profissional com práticas modernas, segurança e escalabilidade.",
           "benefits": [
             "APIs RESTful e GraphQL na prática",
@@ -71,6 +74,7 @@
           "badge": "popular",
           "status": "Indisponível",
           "vagas": "0",
+          "thumbnail": "http://codigodozero.com/webdata/imageteste.png",
           "description": "Mentoria para dominar React, hooks, roteamento, context API e otimizações.",
           "benefits": [
             "Componentização e arquitetura moderna",
@@ -90,8 +94,9 @@
         {
           "title": "Game Dev com Unity",
           "badge": "novo curso",
-          "status": "Disponível",
-          "vagas": "6",
+          "status": "Indisponível",
+          "vagas": "0",
+          "thumbnail": "http://codigodozero.com/webdata/imageteste.png",
           "description": "Mentoria prática para criação de jogos 2D e 3D com Unity e C#, desde os fundamentos até projetos completos.",
           "benefits": [
             "Criação de jogos 2D e 3D com Unity",
