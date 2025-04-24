@@ -1,19 +1,19 @@
 {
   "carousel": [
     {
-      "title": "To-do List App",
-      "image_url": "https://codigodozero.com/webdata/imageteste.png",
-      "description": "Aplicativo de lista de tarefas que permite organizar e priorizar suas atividades diárias de forma eficiente."
+      "title": "Zero Bank",
+      "image_url": "https://codigodozero.com/webdata/projetos/dashboard.png",
+      "description": "Banco fictício que simula funcionalidades como envio de dinheiro, visualização de saldo e histórico de transações."
     },
     {
-      "title": "API de Clima",
-      "image_url": "https://codigodozero.com/webdata/imageteste.png",
-      "description": "API que fornece dados meteorológicos atualizados, incluindo previsão do tempo e condições climáticas atuais."
+      "title": "Sistema de Login Completo",
+      "image_url": "https://codigodozero.com/webdata/projetos/login_vazio.png",
+      "description": "Sistema de autenticação com cadastro, login, recuperação de senha, validação em tempo real"
     },
     {
-      "title": "Portfólio Pessoal",
-      "image_url": "https://codigodozero.com/webdata/imageteste.png",
-      "description": "Site pessoal que exibe projetos, habilidades e experiências profissionais de forma visualmente atraente."
+      "title": "Chatbot Inteligente",
+      "image_url": "https://codigodozero.com/webdata/projetos/chatbot.png",
+      "description": "Assistente virtual capaz de interagir com usuários, responder perguntas e executar comandos simples."
     },
     {
       "title": "Conversor de Moedas",
