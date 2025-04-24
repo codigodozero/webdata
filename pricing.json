@@ -7,7 +7,7 @@
           "title": "C# Completo",
           "badge": "mentoria privada",
           "status": "Disponível",
-          "vagas": "11",
+          "vagas": "8",
           "thumbnail": "http://codigodozero.com/webdata/imageteste.png",
           "description": "Mentoria completa para dominar C# do zero ao avançado, incluindo .NET.",
           "benefits": [
@@ -104,6 +104,28 @@
             "Design de níveis e mecânicas interativas",
             "Publicação na Steam, Itch.io e mobile",
             "Aulas com exercícios e projetos guiados"
+          ],
+          "action_button": "Fazer aula grátis",
+          "highlight": true
+        }
+      ]
+    },
+    {
+      "title": "Mentoria em Desenvolvimento de Apps Mobile",
+      "cards": [
+        {
+          "title": "Apps Mobile com Flutter e React Native",
+          "badge": "mobile dev",
+          "status": "Disponível",
+          "vagas": "5",
+          "thumbnail": "http://codigodozero.com/webdata/imageteste.png",
+          "description": "Aprenda a criar apps nativos e híbridos com Flutter e React Native, com foco em performance e design moderno.",
+          "benefits": [
+            "Projetos completos para Android e iOS",
+            "Integração com APIs e bancos de dados",
+            "Navegação, autenticação e animações fluidas",
+            "Publicação nas lojas Google Play e App Store",
+            "Mentoria prática com acompanhamento individual"
           ],
           "action_button": "Fazer aula grátis",
           "highlight": true
