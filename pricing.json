@@ -15,7 +15,9 @@
             "Aprenda lógica de programação do zero",
             "Aulas práticas ao vivo e gravadas",
             "Crie projetos reais com orientação",
-            "Aprenda C# e .NET nos seus aplicativos"
+            "Aprenda C# e .NET nos seus aplicativos",
+            "Ideal para quem quer criar programas úteis de verdade",
+            "Use Windows Forms, WPF e consuma dados via Apis"
           ],
           "action_button": "Fazer aula grátis",
           "highlight": true
@@ -37,7 +39,9 @@
             "Aprenda a fazer sites do zero",
             "Inclui login, cadastro e banco",
             "Seus projetos rodando na web",
-            "Aprenda HTML, CSS, JS, PHP e MySQL"
+            "Aprenda HTML, CSS, JS, PHP e MySQL",
+            "Construa seu portfólio com sites prontos para mostrar",
+            "Aprenda criar sites com integração de banco de dados"
           ],
           "action_button": "Fazer aula grátis",
           "highlight": true
@@ -59,7 +63,9 @@
             "Descubra o que roda por trás dos apps",
             "Construa APIs com banco de dados",
             "Mentoria passo a passo com projetos",
-            "Aprenda Node.js, MySQL e boas práticas"
+            "Aprenda Node.js, MySQL e boas práticas",
+            "Aprenda a fazer sistemas que funcionam de verdade",
+            "Use Express.js, Banco de dados, JWT e Servidores"
           ],
           "action_button": "Fazer aula grátis",
           "highlight": true
@@ -81,7 +87,9 @@
             "Desenvolva telas bonitas com React",
             "Projetos reais explicados passo a passo",
             "Aulas simples com suporte do mentor",
-            "Aprenda React, Tailwind e integração com APIs"
+            "Aprenda React, Tailwind e integração com APIs",
+            "Ideal para quem quer trabalhar com interface de usuário",
+            "Aprenda hooks, componentização e consumo de API REST"
           ],
           "action_button": "Fazer aula grátis",
           "highlight": false
@@ -103,7 +111,9 @@
             "Seu primeiro app com nossa mentoria",
             "Aulas curtas e práticas para iniciantes",
             "Publicação do app com suporte técnico",
-            "Aprenda Flutter e Dart para apps nativos"
+            "Aprenda Flutter e Dart para apps nativos",
+            "Ideal para quem quer lançar seu próprio app",
+            "Aprenda widgets, navegação, e consumo de API no Flutter"
           ],
           "action_button": "Fazer aula grátis",
           "highlight": true
@@ -125,7 +135,9 @@
             "Faça jogos simples desde a primeira aula",
             "Monte fases, personagens e jogabilidade",
             "Publique no PC ou no celular com ajuda",
-            "Aprenda Unity e C# em todos os seus projetos"
+            "Aprenda Unity e C# em todos os seus projetos",
+            "Ideal para quem sonha em criar seu próprio jogo",
+            "Use Unity Engine, Rigidbody, colisões e lógica de game"
           ],
           "action_button": "Fazer aula grátis",
           "highlight": true
