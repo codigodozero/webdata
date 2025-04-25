@@ -1,21 +1,21 @@
 {
   "sections": [
     {
-      "title": "Formação C#",
+      "title": "Formação Csharp",
       "cards": [
         {
           "title": "C# Completo",
           "badge": "mentoria privada",
           "status": "Disponível",
           "vagas": "15",
-          "thumbnail": "http://codigodozero.com/webdata/pricingimages/backendmentoria.png",
-          "description": "Aprenda do zero a programar e criar aplicativos para computador com C#.",
+          "thumbnail": "http://codigodozero.com/webdata/pricingimages/csharpmentoria.png",
+          "description": "Aprenda do zero a programar com C# e criar apps para PC.",
           "benefits": [
-            "Não precisa saber nada antes",
-            "Você vai aprender lógica de programação do zero",
-            "Aulas simples e diretas, ao vivo e gravadas",
-            "Criação de programas de verdade com ajuda do mentor",
-            "Você vai usar C# e .NET para criar seus projetos"
+            "Comece sem experiência anterior",
+            "Aprenda lógica de programação do zero",
+            "Aulas práticas ao vivo e gravadas",
+            "Crie projetos reais com orientação",
+            "Aprenda C# e .NET nos seus aplicativos"
           ],
           "action_button": "Fazer aula grátis",
           "highlight": true
@@ -23,7 +23,7 @@
       ]
     },
     {
-      "title": "Formação Web",
+      "title": "Formação Fullstack",
       "cards": [
         {
           "title": "Web Fullstack",
@@ -31,13 +31,13 @@
           "status": "Disponível",
           "vagas": "15",
           "thumbnail": "http://codigodozero.com/webdata/pricingimages/webmentoria.png",
-          "description": "Aprenda a criar sites e sistemas completos com PHP, JavaScript, HTML, CSS e MySQL.",
+          "description": "Aprenda a criar sites completos com PHP, JS e MySQL.",
           "benefits": [
-            "Comece do zero, mesmo sem saber programar",
-            "Aprenda a criar sites bonitos e funcionais",
-            "Crie sistemas com login, cadastro e banco de dados",
-            "Você vai ver seus projetos funcionando na internet",
-            "Você vai aprender HTML, CSS, JS, PHP e MySQL"
+            "Ideal para iniciantes absolutos",
+            "Aprenda a fazer sites do zero",
+            "Inclui login, cadastro e banco",
+            "Seus projetos rodando na web",
+            "Aprenda HTML, CSS, JS, PHP e MySQL"
           ],
           "action_button": "Fazer aula grátis",
           "highlight": true
@@ -53,13 +53,13 @@
           "status": "Disponível",
           "vagas": "1",
           "thumbnail": "http://codigodozero.com/webdata/pricingimages/backendmentoria.png",
-          "description": "Aprenda a criar sistemas e APIs que funcionam por trás dos sites, com Node.js e MySQL.",
+          "description": "Aprenda APIs e sistemas com Node.js e banco MySQL.",
           "benefits": [
-            "Indicado para iniciantes sem nenhuma experiência",
-            "Aprenda o que acontece por trás de sites e apps",
-            "Crie sistemas que guardam dados e fazem login",
-            "Passo a passo com ajuda do mentor",
-            "Você vai usar Node.js, MySQL e boas práticas de API"
+            "Inicie do zero, sem experiência",
+            "Descubra o que roda por trás dos apps",
+            "Construa APIs com banco de dados",
+            "Mentoria passo a passo com projetos",
+            "Aprenda Node.js, MySQL e boas práticas"
           ],
           "action_button": "Fazer aula grátis",
           "highlight": true
@@ -67,7 +67,7 @@
       ]
     },
     {
-      "title": "Formação React",
+      "title": "Formação Frontend",
       "cards": [
         {
           "title": "Frontend com React",
@@ -75,13 +75,13 @@
           "status": "Indisponível",
           "vagas": "0",
           "thumbnail": "http://codigodozero.com/webdata/pricingimages/reactmentoria.png",
-          "description": "Aprenda a criar telas modernas e interativas com React, do jeito que grandes sites usam.",
+          "description": "Crie interfaces modernas com React, Tailwind e APIs.",
           "benefits": [
-            "Curso pensado para quem nunca programou",
-            "Crie páginas interativas e bonitas com React",
-            "Aprenda passo a passo com projetos reais",
-            "Aulas fáceis de entender, com apoio direto do mentor",
-            "Você vai usar React, Tailwind e integração com APIs"
+            "Curso ideal para iniciantes",
+            "Desenvolva telas bonitas com React",
+            "Projetos reais explicados passo a passo",
+            "Aulas simples com suporte do mentor",
+            "Aprenda React, Tailwind e integração com APIs"
           ],
           "action_button": "Fazer aula grátis",
           "highlight": false
@@ -97,13 +97,13 @@
           "status": "Indisponível",
           "vagas": "0",
           "thumbnail": "http://codigodozero.com/webdata/pricingimages/mobilementoria.png",
-          "description": "Aprenda a criar aplicativos para celular do zero, com Flutter. Funciona em Android e iPhone.",
+          "description": "Desenvolva apps móveis com Flutter e Dart, do zero.",
           "benefits": [
-            "Não precisa saber programar",
-            "Você cria seu primeiro app com nossa ajuda",
-            "Aulas simples e diretas para iniciantes",
-            "Publicação do app na loja com orientação",
-            "Você vai aprender Flutter e Dart para apps nativos"
+            "Sem necessidade de saber programar",
+            "Seu primeiro app com nossa mentoria",
+            "Aulas curtas e práticas para iniciantes",
+            "Publicação do app com suporte técnico",
+            "Aprenda Flutter e Dart para apps nativos"
           ],
           "action_button": "Fazer aula grátis",
           "highlight": true
@@ -119,13 +119,13 @@
           "status": "Indisponível",
           "vagas": "0",
           "thumbnail": "http://codigodozero.com/webdata/pricingimages/unitymentoria.png",
-          "description": "Aprenda a criar seus próprios jogos em 2D e 3D com Unity e C#. Comece do zero.",
+          "description": "Crie seus próprios jogos em 2D e 3D com Unity e C#.",
           "benefits": [
-            "Você vai aprender mesmo sem saber nada",
-            "Crie jogos simples e divertidos desde a primeira aula",
+            "Indicado para iniciantes em jogos",
+            "Faça jogos simples desde a primeira aula",
             "Monte fases, personagens e jogabilidade",
-            "Publique seus jogos em celular ou PC",
-            "Você vai usar Unity e C# para criar seus jogos"
+            "Publique no PC ou no celular com ajuda",
+            "Aprenda Unity e C# em todos os seus projetos"
           ],
           "action_button": "Fazer aula grátis",
           "highlight": true
