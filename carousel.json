@@ -7,12 +7,12 @@
     },
     {
       "title": "Sistema de Login Completo",
-      "image_url": "https://codigodozero.com/webdata/projetos/2.png",
+      "image_url": "https://codigodozero.com/webdata/projetos/foiosegundo.png",
       "description": "Sistema de autenticação com cadastro, login, recuperação de senha, validação em tempo real"
     },
     {
       "title": "Chatbot Inteligente",
-      "image_url": "https://codigodozero.com/webdata/projetos/3.png",
+      "image_url": "https://codigodozero.com/webdata/projetos/foioterceiro.png",
       "description": "Assistente virtual capaz de interagir com usuários, responder perguntas e executar comandos simples."
     }
   ]
