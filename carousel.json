@@ -2,17 +2,17 @@
   "carousel": [
     {
       "title": "Zero Bank",
-      "image_url": "https://codigodozero.com/webdata/projetos/atualizadodashboard.png",
+      "image_url": "https://codigodozero.com/webdata/projetos/primeiro_project.png",
       "description": "Banco fictício que simula funcionalidades como envio de dinheiro, visualização de saldo e histórico de transações."
     },
     {
       "title": "Sistema de Login Completo",
-      "image_url": "https://codigodozero.com/webdata/projetos/foiosegundo.png",
+      "image_url": "https://codigodozero.com/webdata/projetos/segundo_project.png",
       "description": "Sistema de autenticação com cadastro, login, recuperação de senha, validação em tempo real"
     },
     {
       "title": "Chatbot Inteligente",
-      "image_url": "https://codigodozero.com/webdata/projetos/foioterceiro.png",
+      "image_url": "https://codigodozero.com/webdata/projetos/terceiro_project.png",
       "description": "Assistente virtual capaz de interagir com usuários, responder perguntas e executar comandos simples."
     }
   ]
