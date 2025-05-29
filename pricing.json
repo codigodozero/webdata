@@ -8,7 +8,7 @@
           "badge": "mentoria privada",
           "status": "Disponível",
           "vagas": "15",
-          "thumbnail": "https://codigodozero.com.br/webdata/pricingimages/1csharpmentoria.png",
+          "thumbnail": "https://codigodozero.com/webdata/pricingimages/1csharpmentoria.png",
           "description": "Aprenda do zero a programar com C# e criar apps para PC.",
           "benefits": [
             "Comece sem experiência anterior",
@@ -33,7 +33,7 @@
           "badge": "mentoria privada",
           "status": "Disponível",
           "vagas": "15",
-          "thumbnail": "https://codigodozero.com.br/webdata/pricingimages/1fullstackmentoria.png",
+          "thumbnail": "https://codigodozero.com/webdata/pricingimages/1fullstackmentoria.png",
           "description": "Aprenda a criar sites completos com PHP, JS e MySQL.",
           "benefits": [
             "Ideal para iniciantes absolutos",
@@ -58,7 +58,7 @@
           "badge": "mentoria privada",
           "status": "Disponível",
           "vagas": "1",
-          "thumbnail": "https://codigodozero.com.br/webdata/pricingimages/1backendmentoria.png",
+          "thumbnail": "https://codigodozero.com/webdata/pricingimages/1backendmentoria.png",
           "description": "Aprenda APIs e sistemas com Node.js e banco MySQL.",
           "benefits": [
             "Inicie do zero, sem experiência",
@@ -83,7 +83,7 @@
           "badge": "mentoria privada",
           "status": "Indisponível",
           "vagas": "0",
-          "thumbnail": "https://codigodozero.com.br/webdata/pricingimages/1reactmentoria.png",
+          "thumbnail": "https://codigodozero.com/webdata/pricingimages/1reactmentoria.png",
           "description": "Crie interfaces modernas com React, Tailwind e APIs.",
           "benefits": [
             "Curso ideal para iniciantes",
@@ -108,7 +108,7 @@
           "badge": "mentoria privada",
           "status": "Indisponível",
           "vagas": "0",
-          "thumbnail": "https://codigodozero.com.br/webdata/pricingimages/1mobilementoria.png",
+          "thumbnail": "https://codigodozero.com/webdata/pricingimages/1mobilementoria.png",
           "description": "Desenvolva apps móveis com Flutter e Dart, do zero.",
           "benefits": [
             "Sem necessidade de saber programar",
@@ -133,7 +133,7 @@
           "badge": "mentoria privada",
           "status": "Indisponível",
           "vagas": "0",
-          "thumbnail": "https://codigodozero.com.br/webdata/pricingimages/1unitymentoria.png",
+          "thumbnail": "https://codigodozero.com/webdata/pricingimages/1unitymentoria.png",
           "description": "Crie seus próprios jogos em 2D e 3D com Unity e C#.",
           "benefits": [
             "Indicado para iniciantes em jogos",
